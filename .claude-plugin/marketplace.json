@@ -1,0 +1,13 @@
+{
+  "name": "cerebro-maestro-marketplace",
+  "owner": {
+    "name": "lins888"
+  },
+  "plugins": [
+    {
+      "name": "cerebro-maestro",
+      "source": "./cerebro-maestro",
+      "description": "Sistema de memoria + vault Obsidian como fuente unica de verdad para trabajar con Claude Code."
+    }
+  ]
+}
